@@ -1,0 +1,20 @@
+C:\Users\Nitro5\source\repos\Draw Android\bin\Debug\Draw Android.exe.config
+C:\Users\Nitro5\source\repos\Draw Android\bin\Debug\Draw Android.exe
+C:\Users\Nitro5\source\repos\Draw Android\bin\Debug\Draw Android.pdb
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw Android.csproj.AssemblyReference.cache
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw_Android.Form1.resources
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw_Android.Properties.Resources.resources
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw Android.csproj.GenerateResource.cache
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw Android.csproj.CoreCompileInputs.cache
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw Android.exe
+C:\Users\Nitro5\source\repos\Draw Android\obj\Debug\Draw Android.pdb
+D:\vs studio\Draw Android\bin\Debug\Draw Android.exe.config
+D:\vs studio\Draw Android\bin\Debug\Draw Android.exe
+D:\vs studio\Draw Android\bin\Debug\Draw Android.pdb
+D:\vs studio\Draw Android\obj\Debug\Draw Android.csproj.AssemblyReference.cache
+D:\vs studio\Draw Android\obj\Debug\Draw_Android.Form1.resources
+D:\vs studio\Draw Android\obj\Debug\Draw_Android.Properties.Resources.resources
+D:\vs studio\Draw Android\obj\Debug\Draw Android.csproj.GenerateResource.cache
+D:\vs studio\Draw Android\obj\Debug\Draw Android.csproj.CoreCompileInputs.cache
+D:\vs studio\Draw Android\obj\Debug\Draw Android.exe
+D:\vs studio\Draw Android\obj\Debug\Draw Android.pdb
